@@ -1,0 +1,35 @@
+from turtle import *
+# ოთხკუთხედი
+width(6)
+color('green')
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+left(90)
+forward(200)
+
+# სახურავი
+left(180)
+forward(200)
+color('red')
+right(45)
+forward(140)
+right(90)
+forward(140)
+right(45)
+color('green')
+
+#კარები
+forward(200)
+right(90)
+forward(80)
+color('yellow')
+right(90)
+forward(100)
+left(90)
+forward(50)
+left(90)
+forward(100)
+exitonclick()
