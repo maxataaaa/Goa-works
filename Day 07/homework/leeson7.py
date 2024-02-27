@@ -6,10 +6,13 @@
     #print(num)
     #num += 1
 
-    #count = 0
-#while count <= 5:
-    #print(count)
-    #count += 1
+num = 0
+num1 = 0
+
+while num1 <= 5:
+    num += num1
+    num1 += 1
+    print(num)
 
     #my_string = "Hello"
 #for char in my_string:
