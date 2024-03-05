@@ -1,4 +1,4 @@
-#num = int(input('enter number: '))
+0#num = int(input('enter number: '))
 #print(num % 2 == 0 and num % 4 == 0)
 
 
